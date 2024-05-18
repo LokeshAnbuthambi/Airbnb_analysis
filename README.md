@@ -1,5 +1,5 @@
 # Overview
-This repository contains a python code to preprocess the airbnb data and structured them to create a dashboard with the visualization
+Airbnb analysis is the project which I got the data to handle the missing, duplicates, datatype vlues and prepare the dataset for the accurate analysis and created a dashboard using the streamlit to view the data in a visualization format.
 
 ## Features
 Interactive Visualizations: Users can interact with the data through dynamic and interactive visualizations created with Plotly.
